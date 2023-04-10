@@ -7,14 +7,17 @@
 ***Make sure you've downloaded Python3 and that you've navigated to the correct directory
 https://realpython.com/installing-python/
 
+## Motivations
+
+Many users of the music on-demand sample library Splice have reported difficulty accessing their samples, as the app by default stores them in nested directories. SpliceSorter bridges this gap by allowing users to quickly create new 'horizontal' directories with all their samples, enabling more efficient workflows.
+
 ## Usage
 
 To use Download SpliceSorter.py and type "Python3 SpliceSorter" 
 
 This script is designed to copy all files from a source folder to a destination folder. It can handle copying files as well as any subdirectories within the source folder. This script requires Python 3 to run.
 
-
-## Usage
+## Instructions
 
 1. Open a terminal or command prompt and navigate to the directory containing the script.
 2. Run the script by entering the following command: `python file_copy.py`.
