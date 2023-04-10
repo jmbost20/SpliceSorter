@@ -4,7 +4,8 @@
 ## Prerequisites
 
 - Python 3
-***Make sure you've downloaded Python3 and that you've navigated to the correct directory
+***Make sure you've downloaded Python3 and that you've navigated to the correct directory (cd to the folder of 
+
 https://realpython.com/installing-python/
 
 ## Motivations
