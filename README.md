@@ -1,5 +1,6 @@
 # SpliceSorter
 
+### DEPRECATED - use code as inspiration. I initially built this early in my programming career before ChatGPT. I aspire to rebuild this project utilizing the Splice APIs.
 
 ## Prerequisites
 
